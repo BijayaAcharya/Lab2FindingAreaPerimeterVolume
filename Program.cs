@@ -49,24 +49,7 @@ namespace Lab2FindTheAreaAndPerimeter
                 if (answer == "Y") // condition yes
                 {
                 } 
-                                       /* {
-                                            Console.WriteLine("enter the length"); // asking user input
-                                            double length1 = double.Parse(Console.ReadLine()); //reading from the console and parsing to double
-                                            Console.WriteLine("enter the width"); // asking user input
-                                            double width1 = double.Parse(Console.ReadLine()); // reading from the console and pasrsing to double
-                                            Console.WriteLine("enter the height");
-                                            double height = double.Parse(Console.ReadLine());
-
-                                            double area1 = length1 * width1; // calculating area
-
-                                            double peri1 = (2 * (length1 + width1)); // calculating perimeter
-                                            double volume = (length1 * width1* height);
-
-                                            Console.WriteLine("Area of Room is = {0}, Perimeter is ={1}, and volume is {2}", area1, peri1, volume);  // displaying output to the  console
-                                            Console.ReadLine(); 
-
-                                        }*/
-                                       //if (answer == "N") // condition no
+                                       
                 else
                 {
                     break; // exit the program
