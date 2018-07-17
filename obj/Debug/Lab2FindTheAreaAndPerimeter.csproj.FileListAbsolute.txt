@@ -1,0 +1,7 @@
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\bin\Debug\Lab2FindTheAreaAndPerimeter.exe.config
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\bin\Debug\Lab2FindTheAreaAndPerimeter.exe
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\bin\Debug\Lab2FindTheAreaAndPerimeter.pdb
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\obj\Debug\Lab2FindTheAreaAndPerimeter.csprojAssemblyReference.cache
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\obj\Debug\Lab2FindTheAreaAndPerimeter.csproj.CoreCompileInputs.cache
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\obj\Debug\Lab2FindTheAreaAndPerimeter.exe
+c:\users\bijay\source\repos\Lab2FindTheAreaAndPerimeter\Lab2FindTheAreaAndPerimeter\obj\Debug\Lab2FindTheAreaAndPerimeter.pdb
